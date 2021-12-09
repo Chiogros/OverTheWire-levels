@@ -11,6 +11,7 @@ commands = [
     "cat readme",
     "cat ./-",
     "cat '.spaces in this filename'",
+    "cat inhere/.hidden",
 ]
 
 
