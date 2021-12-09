@@ -12,6 +12,7 @@ commands = [
     "cat ./-",
     "cat '.spaces in this filename'",
     "cat inhere/.hidden",
+    "cat inhere/-file07",
 ]
 
 
