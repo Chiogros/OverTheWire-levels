@@ -10,6 +10,7 @@ usernamePrefix = "bandit"
 commands = [
     "cat readme",
     "cat ./-",
+    "cat '.spaces in this filename'",
 ]
 
 
