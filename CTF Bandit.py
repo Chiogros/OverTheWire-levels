@@ -15,6 +15,7 @@ commands = [
     "cat inhere/-file07",
     "cat $(find -size 1033c -readable -type f)",
     "cat $(find / -size 33c -user bandit7 -group bandit6 2> /dev/null | tail -n 1)",
+    "grep millionth data.txt | awk '{print $2}'",
 ]
 
 
