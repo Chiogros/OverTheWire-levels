@@ -10,7 +10,7 @@ usernamePrefix = "bandit"
 commands = [
     "cat readme",
     "cat ./-",
-    "cat '.spaces in this filename'",
+    "cat './spaces in this filename'",
     "cat inhere/.hidden",
     "cat inhere/-file07",
     "cat $(find -size 1033c -readable -type f)",
