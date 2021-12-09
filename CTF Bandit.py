@@ -9,6 +9,7 @@ usernamePrefix = "bandit"
 
 commands = [
     "cat readme",
+    "cat ./-",
 ]
 
 
